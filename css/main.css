@@ -39,7 +39,6 @@ small {
 
 }
 
-hr {
+.border-top .border-bottom {
   border-color: #e2e2e2;
-  overflow-wrap: break-word;
 }
